@@ -7,6 +7,6 @@
     <title>00NPM00 Fathul Hafidh</title>
 </head>
 <body>
-    
+    <h1>UPDATE PRAKTIKUM PERTEMUAN 1</h1>
 </body>
 </html>
