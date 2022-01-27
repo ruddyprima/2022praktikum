@@ -9,7 +9,7 @@
       <a class="nav-link" data-toggle="dropdown" href="#">
         <i class="far fa-th-large"></i>
       </a>
-      <div class="dropdown-menu dropdown-menu-lg dropdown-menu-right">
+      <div class="dropdown-menu dropdown-menu-lg dropdown-menu-right ">
         <span class="dropdown-item dropdown-header">Pengaturan Pengguna</span>
         <a href="#" class="dropdown-item">
           <i class="fas fa-key mr-2"></i> Ubah Password</p>
