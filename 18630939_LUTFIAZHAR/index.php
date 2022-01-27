@@ -7,7 +7,7 @@
         <?php include "partials/navbar.php" ?>
         <?php include "partials/sidebar.php" ?>
         <div class="content-wrapper">
-            <?php include "routes.php"  ?>
+            <?php include "routes.php" ?>
         </div>
         <?php include "partials/control.php" ?>
         <?php include "partials/footer.php" ?>
