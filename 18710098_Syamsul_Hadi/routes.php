@@ -6,7 +6,7 @@ if (isset($_GET['page'])) {
             include('pages/home.php');
             break;
         case 'lokasi':
-            include('pages/lokasi.php');
+            include('pages/lokasi/index.php');
             break;
         case 'bagian':
             include('pages/bagian.php');
