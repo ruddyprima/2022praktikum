@@ -10,6 +10,7 @@
     <!-- Theme style -->
     <link rel="stylesheet" href="../assets/dist/css/adminlte.min.css">
 </head>
+<?php include('../18710098_Syamsul_Hadi/database/database.php'); ?>
 
 <body class="hold-transition sidebar-mini">
     <div class="wrapper">
