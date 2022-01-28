@@ -53,7 +53,31 @@
                         <li class="nav-item">
                             <a href="#" class="nav-link">
                                 <i class="nav-icon fas fa-th"></i>
-                                <p>Simple Link</p>
+                                <p>Started Menu</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">
+                                <i class="nav-icon fas fa-map-marker"></i>
+                                <p>Lokasi</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">
+                                <i class="nav-icon fas fa-sitemap"></i>
+                                <p>Bagian</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">
+                                <i class="nav-icon fas fa-eject"></i>
+                                <p>Jabatan</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">
+                                <i class="nav-icon fas fa-user"></i>
+                                <p>Karyawan</p>
                             </a>
                         </li>
                     </ul>
