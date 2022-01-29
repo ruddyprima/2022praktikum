@@ -8,7 +8,7 @@
         require_once ("partials/sidebar.php");
         ?>
         <div class="content-wrapper">
-            <?php require_once ("partials/content.php") ?>
+            <?php require_once ("routes.php") ?>
         </div>
         <?php 
         require_once ("partials/control.php");
